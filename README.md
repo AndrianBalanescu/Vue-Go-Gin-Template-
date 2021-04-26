@@ -276,4 +276,6 @@ zhuqiyun LLL狐 星星之火 cjj770 Sam 唐*i 晓聪 aLong *渊 海马 魏镇坪
 
 [MIT](https://github.com/go-admin-team/go-admin/blob/master/LICENSE.md)
 
-Copyright (c) 2020 wenjianzhang
+Copyright (c) 2020 wenjianzhang# Vue-Go-Gin-Template-
+# Vue-Go-Gin-Template-
+# Vue-Go-Gin-Template-
